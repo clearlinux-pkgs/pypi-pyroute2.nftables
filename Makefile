@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pyroute2.nftables
-URL = https://files.pythonhosted.org/packages/01/3a/e4f696d243244224e5022ff259ce702895ae25f029f55831be400a435a9d/pyroute2.nftables-0.6.11.tar.gz
+URL = https://files.pythonhosted.org/packages/d9/b5/99bcb6ce71c901db04106d187e8c3f7406c5371862426e2a39da91a051c8/pyroute2.nftables-0.6.12.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
